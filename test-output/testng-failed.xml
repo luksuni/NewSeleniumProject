@@ -6,6 +6,7 @@
       <class name="com.Sampleselenium.TestCase.SearchText">
         <methods>
           <include name="initialization"/>
+          <include name="compareTitle"/>
           <include name="enterText"/>
           <include name="tearDown"/>
         </methods>
